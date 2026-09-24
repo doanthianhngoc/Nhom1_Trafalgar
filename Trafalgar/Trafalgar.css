@@ -3,7 +3,7 @@
     flex-direction: row;
     list-style: none;
     justify-content: space-between;
-    gap: 10%;
+    gap: 20px;
 }
 .logo{
     display: flex;
@@ -20,9 +20,9 @@
 .title{
     display: flex;
     flex-direction: row;
-    gap: 10%;
+    gap: 10px;
     align-items: center;
-    justify-content: right;
+    justify-content:space-between;
     text-wrap: nowrap;
     width: 70%;
     font-size: 25px;
