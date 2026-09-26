@@ -51,13 +51,6 @@
 .text p{
     font-size: 25px;
 }
-.text .button{
-    border-radius: 20%;
-    padding: 20px;
-
-    text-align: center;
-    background-color: aqua;
-}
 .info{
     display: flex;
     flex-direction: column;
